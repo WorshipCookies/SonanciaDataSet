@@ -1,5 +1,7 @@
 # SonanciaDataSet
-Raw sound files (.wav format) and their specific pairwise preferences for different affective dimensions. If you want to just listen to the sounds that is fine to, just go to Sonancia's SoundCloud (https://soundcloud.com/user-825231816).
+Raw sound files (.wav format) and their specific pairwise preferences for different affective dimensions. 
+
+If you just want to listen to each sound that is fine too! All sounds are easily accessible through Sonancia's own SoundCloud page (https://soundcloud.com/user-825231816).
 
 # Sonancia Crowdsourcing DataSet
 
