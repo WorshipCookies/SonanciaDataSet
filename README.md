@@ -22,4 +22,5 @@ The features extracted with the OpenSMILE tool are also included from each sound
 
 # Additional Notes
 
+Sounds may also be used for non-research purposes, which in this case fall under the Attribution 4.0 Creative Commons Licensing Agreement.
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
