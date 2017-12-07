@@ -18,3 +18,8 @@ Each line consists of a preference annotation such as: [Preferred_Sound_Name],[U
 # OpenSMILE Features
 
 The features extracted with the OpenSMILE tool are also included from each sound file. Features were extracted following the "INTERSPEECH 2009 Emotional Challenge" by Schuller, Steidl and Batliner (2009).
+
+
+# Additional Notes
+
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
